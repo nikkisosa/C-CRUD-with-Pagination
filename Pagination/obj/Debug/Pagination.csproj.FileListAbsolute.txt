@@ -1,0 +1,10 @@
+D:\Share data\Pagination\Pagination\bin\Debug\Data\CRUD.mdf
+D:\Share data\Pagination\Pagination\bin\Debug\Data\CRUD_log.ldf
+D:\Share data\Pagination\Pagination\bin\Debug\Pagination.exe.config
+D:\Share data\Pagination\Pagination\bin\Debug\Pagination.exe
+D:\Share data\Pagination\Pagination\bin\Debug\Pagination.pdb
+D:\Share data\Pagination\Pagination\obj\Debug\Pagination.frmHome.resources
+D:\Share data\Pagination\Pagination\obj\Debug\Pagination.Properties.Resources.resources
+D:\Share data\Pagination\Pagination\obj\Debug\Pagination.csproj.GenerateResource.Cache
+D:\Share data\Pagination\Pagination\obj\Debug\Pagination.exe
+D:\Share data\Pagination\Pagination\obj\Debug\Pagination.pdb
